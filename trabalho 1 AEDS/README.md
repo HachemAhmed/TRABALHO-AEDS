@@ -1,7 +1,7 @@
 # 🔥 Simulador de Propagação de Incêndios em Florestas 🔥
 
 <p align="center">
-  <img src="URL-ou-caminho-da-imagem" alt="capa do projeto" />
+  <img src="https://github.com/HachemAhmed/Trabalho-AEDS/blob/main/trabalho%201%20AEDS/imagem/20250426_2058_Cervo%20em%20Perigo_remix_01jst8hp3zfgtvh9zw9yyybr29.png" alt="capa do projeto" width = 400/>
 </p>
 
 ## 1. Introdução 📖
